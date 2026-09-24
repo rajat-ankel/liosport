@@ -1,0 +1,950 @@
+{
+  "package.json": {
+    "mtime": 1790245227.0262837,
+    "seen": 1790248351.2390738,
+    "ast_hash": "75934fde5be0d70b1b9bb1a4feef7bea",
+    "semantic_hash": ""
+  },
+  "public/analytics/js/script.js": {
+    "mtime": 1790241275.5411801,
+    "seen": 1790248351.2390802,
+    "ast_hash": "25b5b48c4c1efed79da2c557576bff85",
+    "semantic_hash": ""
+  },
+  "public/static/js/1131.6599dd10.chunk.js": {
+    "mtime": 1790241275.6900816,
+    "seen": 1790248351.2390826,
+    "ast_hash": "ad7805377eca668c6ea2a4203f78fd7f",
+    "semantic_hash": ""
+  },
+  "public/static/js/124.ce220a0a.chunk.js": {
+    "mtime": 1790241275.6931036,
+    "seen": 1790248351.2390838,
+    "ast_hash": "c9995283381f66ff08dd64ea95d2ab8d",
+    "semantic_hash": ""
+  },
+  "public/static/js/1476.f38a0d6d.chunk.js": {
+    "mtime": 1790241275.6881309,
+    "seen": 1790248351.2390852,
+    "ast_hash": "0c7781461d389ea0c111d0eb3c581946",
+    "semantic_hash": ""
+  },
+  "public/static/js/4496.21e1c074.chunk.js": {
+    "mtime": 1790241275.6920652,
+    "seen": 1790248351.2390866,
+    "ast_hash": "aa42ddf09336dc057ec7a8a22ecc13fb",
+    "semantic_hash": ""
+  },
+  "public/static/js/4564.b307ffb0.chunk.js": {
+    "mtime": 1790241275.6951008,
+    "seen": 1790248351.2390878,
+    "ast_hash": "01852edc16ad1e771fd804ec2fd11e4e",
+    "semantic_hash": ""
+  },
+  "public/static/js/main.98cb14ec.js": {
+    "mtime": 1790241275.5306323,
+    "seen": 1790248351.2390885,
+    "ast_hash": "88e707bacbe56e167c8963d9d42f50a5",
+    "semantic_hash": ""
+  },
+  "src/App.jsx": {
+    "mtime": 1790249737.1862628,
+    "seen": 1790250043.4679687,
+    "ast_hash": "2e17dc7919d45e6d84c1159ad0314266",
+    "semantic_hash": ""
+  },
+  "src/components/CategoryNav.jsx": {
+    "mtime": 1790247413.0239365,
+    "seen": 1790248351.2390907,
+    "ast_hash": "b1e42b7158f91c47d393738372639b5c",
+    "semantic_hash": ""
+  },
+  "src/components/FloatingActions.jsx": {
+    "mtime": 1790248238.2887626,
+    "seen": 1790248351.2390919,
+    "ast_hash": "53c5f1563ef189e3466cb12019c825cc",
+    "semantic_hash": ""
+  },
+  "src/components/Footer.jsx": {
+    "mtime": 1790248252.1837735,
+    "seen": 1790248351.2390935,
+    "ast_hash": "b48b9bf760f8ca1af30dc6ecd222023d",
+    "semantic_hash": ""
+  },
+  "src/components/GameGrid.jsx": {
+    "mtime": 1790247425.0111594,
+    "seen": 1790248351.2390943,
+    "ast_hash": "dfb96b4f3c85e7a83c8be90c0d7eed3f",
+    "semantic_hash": ""
+  },
+  "src/components/GameLaunchModal.jsx": {
+    "mtime": 1790247693.8405683,
+    "seen": 1790248351.2390952,
+    "ast_hash": "3fe33c953600ef9093488d63936423ab",
+    "semantic_hash": ""
+  },
+  "src/components/Header.jsx": {
+    "mtime": 1790249642.307701,
+    "seen": 1790250043.4679875,
+    "ast_hash": "2c68f273e80588bf2b1677a3fe8844f4",
+    "semantic_hash": ""
+  },
+  "src/components/HeroBanner.jsx": {
+    "mtime": 1790247405.0573747,
+    "seen": 1790248351.2390969,
+    "ast_hash": "af0679863fd4cebf11412b921d3a7c6d",
+    "semantic_hash": ""
+  },
+  "src/components/LoginModal.jsx": {
+    "mtime": 1790247660.2241166,
+    "seen": 1790248351.2390978,
+    "ast_hash": "8e055b1e54aa6b4cf339d5c822229c17",
+    "semantic_hash": ""
+  },
+  "src/components/MobileSidebar.jsx": {
+    "mtime": 1790247392.9450681,
+    "seen": 1790248351.2390985,
+    "ast_hash": "a2feae8e24986c57d50e415b0ed1daac",
+    "semantic_hash": ""
+  },
+  "src/components/ProvidersSection.jsx": {
+    "mtime": 1790247433.999416,
+    "seen": 1790248351.2390995,
+    "ast_hash": "a834c4d8d507e75c56e2853244158651",
+    "semantic_hash": ""
+  },
+  "src/components/RegisterModal.jsx": {
+    "mtime": 1790247673.4480042,
+    "seen": 1790248351.2391005,
+    "ast_hash": "6e643759cf0562c7f0f3e8c974af9592",
+    "semantic_hash": ""
+  },
+  "src/components/SearchModal.jsx": {
+    "mtime": 1790247684.2762764,
+    "seen": 1790248351.2391012,
+    "ast_hash": "ecd3c1268992d5afb716a1f1e0ade410",
+    "semantic_hash": ""
+  },
+  "src/data/siteData.js": {
+    "mtime": 1790248771.7684236,
+    "seen": 1790250043.468007,
+    "ast_hash": "2b49baf876ed9124d11425b8129a65cb",
+    "semantic_hash": ""
+  },
+  "src/main.jsx": {
+    "mtime": 1790247719.8512912,
+    "seen": 1790248351.2391036,
+    "ast_hash": "ec05c83d9bfed70d888b2da13f269eef",
+    "semantic_hash": ""
+  },
+  "vite.config.js": {
+    "mtime": 1790246273.8467488,
+    "seen": 1790248351.2391045,
+    "ast_hash": "2c1df68c9f584ab239c401bc4afaa0f9",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1790246281.5633812,
+    "seen": 1790248351.2391055,
+    "ast_hash": "da0424cc85ed7f1657e08d6952ae95bf",
+    "semantic_hash": ""
+  },
+  "public/index.html": {
+    "mtime": 1790241275.546339,
+    "seen": 1790248351.2391067,
+    "ast_hash": "1735d00ac90d24fff3c8e447045f8d7a",
+    "semantic_hash": ""
+  },
+  "public/Favicon.webp": {
+    "mtime": 1790241275.8406427,
+    "seen": 1790248351.2391076,
+    "ast_hash": "00efbbe729e526cc4f3685b6a49f9dcc",
+    "semantic_hash": ""
+  },
+  "public/cdn/79c2ac39-16bd-4d80-bcae-1786a4918c5e.jpeg": {
+    "mtime": 1790241275.7953963,
+    "seen": 1790248351.2391083,
+    "ast_hash": "2075ca1e53af4da9b2ae62da3c7891b1",
+    "semantic_hash": ""
+  },
+  "public/cdn/975a39c8-9a67-4cae-9909-2385e32ccd73.webp": {
+    "mtime": 1790241275.6767612,
+    "seen": 1790248351.2391093,
+    "ast_hash": "59f651ebdf5b0c550b64cb398c3429e1",
+    "semantic_hash": ""
+  },
+  "public/cdn/e3390a49-611c-408c-bb76-2c04e7af7f7b.jpeg": {
+    "mtime": 1790241275.830662,
+    "seen": 1790248351.2391105,
+    "ast_hash": "65c08a748ad0ce2f50c79ff3ead9ade5",
+    "semantic_hash": ""
+  },
+  "public/images/andarbahar/home/AndarBahar.webp": {
+    "mtime": 1790241275.9487891,
+    "seen": 1790248351.2391114,
+    "ast_hash": "00730c01b9d10d26bb29ea17cb93409e",
+    "semantic_hash": ""
+  },
+  "public/images/andarbahar/home/OTTAndarBahar.webp": {
+    "mtime": 1790241275.9507422,
+    "seen": 1790248351.2391121,
+    "ast_hash": "37599d11497d00f8336a610621c3f402",
+    "semantic_hash": ""
+  },
+  "public/images/andarbahar/home/UltimateAndarBahar.webp": {
+    "mtime": 1790241275.9507422,
+    "seen": 1790248351.2391133,
+    "ast_hash": "676f36013b15c108283b20398ecfb12a",
+    "semantic_hash": ""
+  },
+  "public/images/andarbahar/home/superandharbhar.jpg": {
+    "mtime": 1790241275.9458618,
+    "seen": 1790248351.239114,
+    "ast_hash": "4be1a428c0db5806342d8491a8a84e03",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/Roulette.webp": {
+    "mtime": 1790241276.05784,
+    "seen": 1790248351.239115,
+    "ast_hash": "0d21c4549a0b30560ef9b2a795b1dae1",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/Teenpatti2.webp": {
+    "mtime": 1790241276.0607715,
+    "seen": 1790248351.2391157,
+    "ast_hash": "e570bc3a65358160264cc30efc54eb73",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/Zhandu.webp": {
+    "mtime": 1790241276.0539267,
+    "seen": 1790248351.239117,
+    "ast_hash": "7af557f795737ebc9cef4ac2e902eaa3",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/dragontiger.webp": {
+    "mtime": 1790241276.0568643,
+    "seen": 1790248351.2391176,
+    "ast_hash": "8aabfdac45ef2b480c589127cfa61fe5",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/sevenupdown.webp": {
+    "mtime": 1790241276.0597944,
+    "seen": 1790248351.2391186,
+    "ast_hash": "2882c36749f106af830811b0c02659fb",
+    "semantic_hash": ""
+  },
+  "public/images/anvio-games/teenpatti.webp": {
+    "mtime": 1790241276.0549128,
+    "seen": 1790248351.2391193,
+    "ast_hash": "17d51f816b67d290f98781b0da363167",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/Baccarat1.webp": {
+    "mtime": 1790241275.9659414,
+    "seen": 1790248351.2391202,
+    "ast_hash": "4d0ea91654ff325c1105a765cf3d7bf2",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/BaccaratControlSqueeze.webp": {
+    "mtime": 1790241275.9688697,
+    "seen": 1790248351.239121,
+    "ast_hash": "02b24f0a45aa6ae23a61a521211b665f",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/CasinoMarinaBaccarat1.webp": {
+    "mtime": 1790241275.9708233,
+    "seen": 1790248351.2391217,
+    "ast_hash": "4ce2942ed771976c77c481446626b3df",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/CasinoMarinaBaccarat2.webp": {
+    "mtime": 1790241275.9725401,
+    "seen": 1790248351.239123,
+    "ast_hash": "5ec877e091783b58ea1d665afb657139",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/CricketWar.webp": {
+    "mtime": 1790241275.9735227,
+    "seen": 1790248351.2391243,
+    "ast_hash": "f041c399c0283212bf51a2becc485db8",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/FortuneBaccarat.webp": {
+    "mtime": 1790241275.9754834,
+    "seen": 1790248351.2391253,
+    "ast_hash": "7924f534108e76691586c5a8b87159bf",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/KnockoutBaccarat.webp": {
+    "mtime": 1790241275.9698482,
+    "seen": 1790248351.2391262,
+    "ast_hash": "6d860813e031f236b110328a471636e7",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/NoCommissionBaccarat.webp": {
+    "mtime": 1790241275.9774365,
+    "seen": 1790248351.2391272,
+    "ast_hash": "7e7bfb8bc9bed3b4b3d7b48ae1265d5c",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/SpeedBaccaratA.webp": {
+    "mtime": 1790241275.9784107,
+    "seen": 1790248351.2391279,
+    "ast_hash": "7066dc96b64009127a1a05cb96aaa5ae",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/Super6Baccarat.webp": {
+    "mtime": 1790241275.9821124,
+    "seen": 1790248351.2391286,
+    "ast_hash": "82cf9dbb3fb8d09536125213fc0553b2",
+    "semantic_hash": ""
+  },
+  "public/images/baccarat/home/dragontiger.jpg": {
+    "mtime": 1790241275.9639895,
+    "seen": 1790248351.2391295,
+    "ast_hash": "8a8525a4286cba4abfdc7ad675a3ae64",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/ClassicSpeedBlackjack10.webp": {
+    "mtime": 1790241275.994445,
+    "seen": 1790248351.2391303,
+    "ast_hash": "a16b30f0612f22b000b448fefa8309f9",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/DiamondVIPBlackjack.webp": {
+    "mtime": 1790241275.9964068,
+    "seen": 1790248351.2391315,
+    "ast_hash": "cc4ac758c7240cd6af5bd268b3bf06c1",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/GoldBlackjack3.webp": {
+    "mtime": 1790241275.9993343,
+    "seen": 1790248351.2391324,
+    "ast_hash": "74454f0f0a93c358b507bc03f609e017",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/GoldBlackjack5.webp": {
+    "mtime": 1790241276.000312,
+    "seen": 1790248351.2391331,
+    "ast_hash": "0325215d8f666d4e1f81f593a527d993",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/SalonePriveBlackjack.webp": {
+    "mtime": 1790241276.0062184,
+    "seen": 1790248351.2391343,
+    "ast_hash": "7a7c2bb7fad40ed46d7bc9786db8fd23",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/UnlimitedBlackjack.webp": {
+    "mtime": 1790241276.0081747,
+    "seen": 1790248351.239135,
+    "ast_hash": "249274df647f7d02b207687d0674aee5",
+    "semantic_hash": ""
+  },
+  "public/images/blackjack/home/VIPSurrenderBlackjackwith.webp": {
+    "mtime": 1790241276.0101252,
+    "seen": 1790248351.239136,
+    "ast_hash": "6613d355edf2d3e3383810a22c1989ac",
+    "semantic_hash": ""
+  },
+  "public/images/crash/TowerRush.webp": {
+    "mtime": 1790241275.8472023,
+    "seen": 1790248351.239137,
+    "ast_hash": "ad4cbf42115a4bb917759d2fa03943f5",
+    "semantic_hash": ""
+  },
+  "public/images/crash/aviator.webp": {
+    "mtime": 1790241275.8707201,
+    "seen": 1790248351.239138,
+    "ast_hash": "ccaf861302e2b71ece43717b856dce3a",
+    "semantic_hash": ""
+  },
+  "public/images/crash/cockfight.png": {
+    "mtime": 1790241275.8687637,
+    "seen": 1790248351.2391388,
+    "ast_hash": "272c2a9e85d34883b11d699612540bec",
+    "semantic_hash": ""
+  },
+  "public/images/dice/home/LightningDice.webp": {
+    "mtime": 1790241275.986029,
+    "seen": 1790248351.2391396,
+    "ast_hash": "d7d66c669fbe00236b93e6df1ec97401",
+    "semantic_hash": ""
+  },
+  "public/images/dice/home/SicBo.webp": {
+    "mtime": 1790241275.9879808,
+    "seen": 1790248351.2391405,
+    "ast_hash": "0e98447de991fc086e43991981ed77ed",
+    "semantic_hash": ""
+  },
+  "public/images/dice/home/SuperSicBo.webp": {
+    "mtime": 1790241275.9899318,
+    "seen": 1790248351.2391417,
+    "ast_hash": "ed5024ecf528079d42aadd1bfd1102b4",
+    "semantic_hash": ""
+  },
+  "public/images/dice/home/UltimateSicBo.webp": {
+    "mtime": 1790241275.9919152,
+    "seen": 1790248351.2391424,
+    "ast_hash": "6b13d1e00470b966b43dce22c55bde50",
+    "semantic_hash": ""
+  },
+  "public/images/facebook-512.svg": {
+    "mtime": 1790241275.74223,
+    "seen": 1790248351.2391436,
+    "ast_hash": "76fc80c892278bde1ff1fa75d8b75678",
+    "semantic_hash": ""
+  },
+  "public/images/gameshows/home/CrazyTime.webp": {
+    "mtime": 1790241276.0121114,
+    "seen": 1790248351.239144,
+    "ast_hash": "4d152615412e9205f4c07336eb03be05",
+    "semantic_hash": ""
+  },
+  "public/images/gameshows/home/MegaBall.webp": {
+    "mtime": 1790241276.0130987,
+    "seen": 1790248351.2391453,
+    "ast_hash": "a49d3aa2aea219b53a231ee1c0539ea1",
+    "semantic_hash": ""
+  },
+  "public/images/lucky7/home/Lucky7.webp": {
+    "mtime": 1790241275.984073,
+    "seen": 1790248351.239146,
+    "ast_hash": "f41c6736073075c168ae6205b7d4bc68",
+    "semantic_hash": ""
+  },
+  "public/images/newgames/JetX.webp": {
+    "mtime": 1790241275.8751776,
+    "seen": 1790248351.239147,
+    "ast_hash": "fb9cbc8c55ecc7abc0985936979ddd33",
+    "semantic_hash": ""
+  },
+  "public/images/newgames/aviatrix.png": {
+    "mtime": 1790241275.8790815,
+    "seen": 1790248351.2391477,
+    "ast_hash": "162782bc2fb5aac90332199671208ece",
+    "semantic_hash": ""
+  },
+  "public/images/poker/home/2020teenpatti.jpg": {
+    "mtime": 1790241275.953671,
+    "seen": 1790248351.2391489,
+    "ast_hash": "97e6070f3ca357a138d6baba449699d2",
+    "semantic_hash": ""
+  },
+  "public/images/poker/home/BetOnTeenPatti.webp": {
+    "mtime": 1790241275.9566133,
+    "seen": 1790248351.2391496,
+    "ast_hash": "c5bed01b153d6510a1bee7733ba20d4a",
+    "semantic_hash": ""
+  },
+  "public/images/poker/home/OneDayTeenPatti.webp": {
+    "mtime": 1790241275.9585626,
+    "seen": 1790248351.2391503,
+    "ast_hash": "271079953e46eda0007c850b210c0d64",
+    "semantic_hash": ""
+  },
+  "public/images/poker/home/TeenPatti3Card.webp": {
+    "mtime": 1790241275.9620268,
+    "seen": 1790248351.2391515,
+    "ast_hash": "ba836ddd50f6e1566cbc7c1a032a7ec6",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Evolution.webp": {
+    "mtime": 1790241276.0638747,
+    "seen": 1790248351.2391524,
+    "ast_hash": "00fc5b326be91bc29bd134641b75cf3f",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Ezugi.webp": {
+    "mtime": 1790241276.0628996,
+    "seen": 1790248351.2391531,
+    "ast_hash": "a70cc50a68f731bc93cd21d13374ff29",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Qtech.webp": {
+    "mtime": 1790241276.0668056,
+    "seen": 1790248351.239154,
+    "ast_hash": "19cecf0ba2082625aacbb9b14db35058",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/RoyalGaming.webp": {
+    "mtime": 1790241276.0780976,
+    "seen": 1790248351.2391553,
+    "ast_hash": "9537175096d216f035604fcf522842fd",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Royalmini.webp": {
+    "mtime": 1790241276.0790744,
+    "seen": 1790248351.239156,
+    "ast_hash": "d9e9c607a958283cd4fa75dd5283cc1b",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Slots.webp": {
+    "mtime": 1790241276.0707123,
+    "seen": 1790248351.239157,
+    "ast_hash": "f1b220542fa18f0d2bac1b6683b52367",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/Supernowa.webp": {
+    "mtime": 1790241276.0687582,
+    "seen": 1790248351.239158,
+    "ast_hash": "86e24bd023da9de3d7107e723efed532",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/XPG.webp": {
+    "mtime": 1790241276.0658298,
+    "seen": 1790248351.2391589,
+    "ast_hash": "fd65cb925598f406aad7b8aa111dca90",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/mac88-excite.webp": {
+    "mtime": 1790241276.077121,
+    "seen": 1790248351.2391598,
+    "ast_hash": "a1101c6eb0168305b8926c64b46875b8",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/mac88.webp": {
+    "mtime": 1790241276.0751686,
+    "seen": 1790248351.2391605,
+    "ast_hash": "67d63f7235801c9b08600029312dfeb5",
+    "semantic_hash": ""
+  },
+  "public/images/providers/new/vimplayy.webp": {
+    "mtime": 1790241276.0741837,
+    "seen": 1790248351.2391613,
+    "ast_hash": "8cd9e53387de69c9bd5ceaa1b5028450",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/AmericanRoulette.webp": {
+    "mtime": 1790241275.8810346,
+    "seen": 1790248351.2391632,
+    "ast_hash": "d5cd2ccb11a30da62746cee2b22c10b0",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/AutoRoulette.webp": {
+    "mtime": 1790241275.8840032,
+    "seen": 1790248351.239164,
+    "ast_hash": "cb0c45dc2d2fc9de3add7ebe3f5ed64c",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/CasinoMarinaRoulette1.webp": {
+    "mtime": 1790241275.8953598,
+    "seen": 1790248351.2391648,
+    "ast_hash": "18f3631aa0578858be761f9565dd5252",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/CasinoMarinaRoulette2.webp": {
+    "mtime": 1790241275.8992662,
+    "seen": 1790248351.239166,
+    "ast_hash": "a97471a39125a56ea5bfaece51c80d04",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/CricketAutoRoulette.webp": {
+    "mtime": 1790241275.9051752,
+    "seen": 1790248351.239167,
+    "ast_hash": "12cce2d15982fcf73b99cdd06cf51c80",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/DiamondRoulette.webp": {
+    "mtime": 1790241275.9110327,
+    "seen": 1790248351.239168,
+    "ast_hash": "9370a93511beffbdd737beb6f647c2f9",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/DoubleBallRoulette.webp": {
+    "mtime": 1790241275.917919,
+    "seen": 1790248351.239169,
+    "ast_hash": "c334a441436b2773dea3ab9f50768d6e",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/FirstPersonRoulette.webp": {
+    "mtime": 1790241275.9208486,
+    "seen": 1790248351.2391696,
+    "ast_hash": "20ca7d874dc649e5c3fd99dca91acea0",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/ItalianRoulette.webp": {
+    "mtime": 1790241275.92284,
+    "seen": 1790248351.2391703,
+    "ast_hash": "ffef36f76ba0a3ad7fdb6b93ca51dba1",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/LightningRoulette.webp": {
+    "mtime": 1790241275.9248052,
+    "seen": 1790248351.239171,
+    "ast_hash": "25fa95b36d6dc4943f7c057c5f37cdde",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/NamasteRoulette.webp": {
+    "mtime": 1790241275.927732,
+    "seen": 1790248351.239172,
+    "ast_hash": "7a120ab03d61ce83ec07c3f4a76956e6",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/Oracle360Roulette.webp": {
+    "mtime": 1790241275.9296863,
+    "seen": 1790248351.239173,
+    "ast_hash": "e93c9ee5a57a602611013b1d3d2d134a",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/PrestigeAutoRoulette.webp": {
+    "mtime": 1790241275.9306624,
+    "seen": 1790248351.239174,
+    "ast_hash": "d4779de00532b70d4a36245b9dd97b30",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/RuletaDelSol.webp": {
+    "mtime": 1790241275.908104,
+    "seen": 1790248351.2391746,
+    "ast_hash": "a1580d97c7ad8992417e6071c5cc1494",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/SkylineRoulette.webp": {
+    "mtime": 1790241275.9334114,
+    "seen": 1790248351.2391753,
+    "ast_hash": "cb9c471151b8c9586c26e871ae10e679",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/SpeedAutoRoulette.webp": {
+    "mtime": 1790241275.9358983,
+    "seen": 1790248351.2391765,
+    "ast_hash": "9f960898f6829157d6f95e344ba5f889",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/SpeedRoulette.webp": {
+    "mtime": 1790241275.9384692,
+    "seen": 1790248351.2391772,
+    "ast_hash": "4446eb769bf7b5ea645256ac9fb8be44",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/TurkishRoulette.webp": {
+    "mtime": 1790241275.9429188,
+    "seen": 1790248351.239178,
+    "ast_hash": "66385e703c6f8a89086c88d946adf5f9",
+    "semantic_hash": ""
+  },
+  "public/images/roulette/home/UltimateRoulette.webp": {
+    "mtime": 1790241275.9448843,
+    "seen": 1790248351.2391787,
+    "ast_hash": "694200c4dd60dfb5675e66ea1384394f",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Aero.jpg": {
+    "mtime": 1790241275.8452454,
+    "seen": 1790248351.2391796,
+    "ast_hash": "db5bdaaed123553b79f101ed729dde02",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Aviator-new.webp": {
+    "mtime": 1790241276.0297396,
+    "seen": 1790248351.2391803,
+    "ast_hash": "36548ef825c27af259e4ff3ba449cb3b",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Dice-new.webp": {
+    "mtime": 1790241276.0336754,
+    "seen": 1790248351.2391813,
+    "ast_hash": "0d2049fd2acfae2f0c18bde3030429bb",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Goal-new.webp": {
+    "mtime": 1790241276.0307124,
+    "seen": 1790248351.239182,
+    "ast_hash": "c582ac918071b203baa6c066c697bf5c",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Hilo-new.webp": {
+    "mtime": 1790241276.036604,
+    "seen": 1790248351.2391827,
+    "ast_hash": "53aab44ea44225bb3131c60f036e7ffe",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/HotlineNew.jpg": {
+    "mtime": 1790241276.0421517,
+    "seen": 1790248351.2391837,
+    "ast_hash": "90714f3fa15816f5acf07ec05a7f07ca",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Keno-new.webp": {
+    "mtime": 1790241276.038558,
+    "seen": 1790248351.2391844,
+    "ast_hash": "6b10e9bdc7b09cf33d7047caf595ef12",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Mines.webp": {
+    "mtime": 1790241276.0405097,
+    "seen": 1790248351.239185,
+    "ast_hash": "85bcaa6537fb62802ddf75f133fb2eb3",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/MiniRoulette-new.webp": {
+    "mtime": 1790241276.039534,
+    "seen": 1790248351.2391858,
+    "ast_hash": "5f03b41c8f02d6ab265e42423c3c0e41",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/Plinko-new.webp": {
+    "mtime": 1790241276.035627,
+    "seen": 1790248351.2391868,
+    "ast_hash": "8348b1e963bd9fa013a6769ec828a594",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/balloon.webp": {
+    "mtime": 1790241276.051965,
+    "seen": 1790248351.2391875,
+    "ast_hash": "ec0af16308e3e27658067d35ea29b14a",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/crystalfall.webp": {
+    "mtime": 1790241276.0490034,
+    "seen": 1790248351.2391882,
+    "ast_hash": "c0c41919fe9f3e728079c20e33ada45d",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/ezmarbleracemo.webp": {
+    "mtime": 1790241275.8442693,
+    "seen": 1790248351.239189,
+    "ast_hash": "16c586b05b1833a75bd1370eafc8fb53",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/gatesofegypt.webp": {
+    "mtime": 1790241276.0460756,
+    "seen": 1790248351.2391899,
+    "ast_hash": "64bf316b996e3d7f47c5f732c665e14c",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/multikeno.webp": {
+    "mtime": 1790241276.0509567,
+    "seen": 1790248351.2391906,
+    "ast_hash": "dca47ee5a65cf9c35ce151ff5c86ca40",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/neovegas.webp": {
+    "mtime": 1790241276.0480287,
+    "seen": 1790248351.2391915,
+    "ast_hash": "665c1a36139d103b71a12efdde95faa4",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/pilotchicken.webp": {
+    "mtime": 1790241276.044114,
+    "seen": 1790248351.2391922,
+    "ast_hash": "197929fee9d02e99d48538fbd51a7381",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/pushpa-rani.webp": {
+    "mtime": 1790241275.8540757,
+    "seen": 1790248351.2391934,
+    "ast_hash": "479af151e3e50940ef2a57114c35994a",
+    "semantic_hash": ""
+  },
+  "public/images/spribe/trader.webp": {
+    "mtime": 1790241276.0499802,
+    "seen": 1790248351.2391942,
+    "ast_hash": "b0c004979e7662488ae3707aa860114b",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/BombRun.jpg": {
+    "mtime": 1790241276.021917,
+    "seen": 1790248351.2391949,
+    "ast_hash": "aab3cccbd61517c564a42dbfc8f4a356",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/ReplayRoullete.jpg": {
+    "mtime": 1790241276.017002,
+    "seen": 1790248351.2391956,
+    "ast_hash": "c783e52d328f1c9cd1a7ba0d46087f43",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/RoyalRoulette.jpg": {
+    "mtime": 1790241276.0160272,
+    "seen": 1790248351.2391963,
+    "ast_hash": "e582e2b2eeb9a3a9958b3643e954652b",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/Wishingwell.jpg": {
+    "mtime": 1790241276.0248554,
+    "seen": 1790248351.2391975,
+    "ast_hash": "5a7d2d6c91918141ffa8aced161cc8be",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/cosmicroulette.jpg": {
+    "mtime": 1790241276.0179822,
+    "seen": 1790248351.2391982,
+    "ast_hash": "f76233e51f001de59a9618292e15318c",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/crashkick.jpg": {
+    "mtime": 1790241276.0258317,
+    "seen": 1790248351.239199,
+    "ast_hash": "61799a313704e30e050fe027b485df45",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/dragontap.jpg": {
+    "mtime": 1790241276.0287678,
+    "seen": 1790248351.2392,
+    "ast_hash": "c592322afb605c9839ddf8a0450aeda8",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/lottoluck.jpg": {
+    "mtime": 1790241276.026809,
+    "seen": 1790248351.2392008,
+    "ast_hash": "2c4c020493d6968e000db1d64b2daa84",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/rouletto.jpg": {
+    "mtime": 1790241276.0199347,
+    "seen": 1790248351.2392018,
+    "ast_hash": "34f32bbf8e4477543a8b61f1644889e7",
+    "semantic_hash": ""
+  },
+  "public/images/vimplay/texhnoroulette.jpg": {
+    "mtime": 1790241276.015051,
+    "seen": 1790248351.2392025,
+    "ast_hash": "885510e9793ad3477093e68b2262b88a",
+    "semantic_hash": ""
+  },
+  "public/static/media/Crash.2861e539b596e11ae572.webp": {
+    "mtime": 1790241275.830662,
+    "seen": 1790248351.2392032,
+    "ast_hash": "2bd05baf79c82943865bab4167918013",
+    "semantic_hash": ""
+  },
+  "public/static/media/Instagram.0b3e8a0c68c61f6f9de668820032ea7d.svg": {
+    "mtime": 1790241275.7451751,
+    "seen": 1790248351.2392042,
+    "ast_hash": "e710a0001b1632c6675cb47fa53bb7b9",
+    "semantic_hash": ""
+  },
+  "public/static/media/Telegram.205925a01c94b9f8adae4bc21bcb95b0.svg": {
+    "mtime": 1790241275.7377937,
+    "seen": 1790248351.2392051,
+    "ast_hash": "7e7271d23e52df9b527fde819c440e25",
+    "semantic_hash": ""
+  },
+  "public/static/media/Whatsapp.a9fb4e4e7292448d3ff0462d2c7b239b.svg": {
+    "mtime": 1790241275.7358427,
+    "seen": 1790248351.2392058,
+    "ast_hash": "275542c0bfd21c6c6c4cfc1ff9d4f24b",
+    "semantic_hash": ""
+  },
+  "public/static/media/axis_bank-payment.5a004254319e8d7956c0.png": {
+    "mtime": 1790241275.7152412,
+    "seen": 1790248351.2392066,
+    "ast_hash": "c18d210f4219e04e14704ae492a56f77",
+    "semantic_hash": ""
+  },
+  "public/static/media/evolution-prvdr.b66a4a969a5bb88cf470.png": {
+    "mtime": 1790241275.696088,
+    "seen": 1790248351.2392075,
+    "ast_hash": "15231445dd5b162c355a7c49fbed4dd4",
+    "semantic_hash": ""
+  },
+  "public/static/media/evolution.c74ef61f50777ef637e9.webp": {
+    "mtime": 1790241275.6777384,
+    "seen": 1790248351.2392082,
+    "ast_hash": "3fcd7b54496fae61897e56422a82f4af",
+    "semantic_hash": ""
+  },
+  "public/static/media/google_pe-payment.08387ea770f3c947e3eb.png": {
+    "mtime": 1790241275.7107818,
+    "seen": 1790248351.2392092,
+    "ast_hash": "fc4fc97ebfc37f2e01b5c8163dfe6d3a",
+    "semantic_hash": ""
+  },
+  "public/static/media/idfc_bank-payment.ef68739ded85aa999bde.png": {
+    "mtime": 1790241275.7319171,
+    "seen": 1790248351.2392097,
+    "ast_hash": "db725afd5999348a2aa7f815592d53f4",
+    "semantic_hash": ""
+  },
+  "public/static/media/indusind_bank-payment.dca34a613ca3f7a2da22.png": {
+    "mtime": 1790241275.7221045,
+    "seen": 1790248351.2392106,
+    "ast_hash": "4021ae2aa504cb6653b6a702d7e7c324",
+    "semantic_hash": ""
+  },
+  "public/static/media/loader1.902f8e14f0090bf5dc1d.webp": {
+    "mtime": 1790241275.769682,
+    "seen": 1790248351.2392116,
+    "ast_hash": "36d352e8d8e5d66397ed8459ebd2199e",
+    "semantic_hash": ""
+  },
+  "public/static/media/phone_pe-payment.7dee4c9b3b5b67d3a576.png": {
+    "mtime": 1790241275.698041,
+    "seen": 1790248351.2392123,
+    "ast_hash": "22253d8d193cc769f50772cd8645742c",
+    "semantic_hash": ""
+  },
+  "public/static/media/qtech.92d8f6c2ec06a8caec0f.webp": {
+    "mtime": 1790241275.683239,
+    "seen": 1790248351.239213,
+    "ast_hash": "48e0f9257bb93623fe3cf86f8c9c5faa",
+    "semantic_hash": ""
+  },
+  "public/static/media/slots.fb2b220740d959ef8487.webp": {
+    "mtime": 1790241275.6796916,
+    "seen": 1790248351.2392137,
+    "ast_hash": "cbd2aa4afbbeb860451690726134a018",
+    "semantic_hash": ""
+  },
+  "public/static/media/supernowa.ba593f5fca47678c07e0.webp": {
+    "mtime": 1790241275.6851985,
+    "seen": 1790248351.2392147,
+    "ast_hash": "81f49348b3887f256c114662515d0b31",
+    "semantic_hash": ""
+  },
+  "public/static/media/toggle-menu.cbcb727895126e7099e3.webp": {
+    "mtime": 1790241275.686178,
+    "seen": 1790248351.2392154,
+    "ast_hash": "f903c0091292cd5db244dac2c1a5d1a2",
+    "semantic_hash": ""
+  },
+  "public/static/media/xpg.92bb55ea60ae19f7cf12.webp": {
+    "mtime": 1790241275.6821811,
+    "seen": 1790248351.239216,
+    "ast_hash": "30353f31f1417a9bdbe5e3c71b36a020",
+    "semantic_hash": ""
+  },
+  "public/static/media/yes_bank-payment.e275653867025c6609b2.png": {
+    "mtime": 1790241275.7260273,
+    "seen": 1790248351.2392168,
+    "ast_hash": "a9be1b0c80763930a2776e8cbb33e943",
+    "semantic_hash": ""
+  },
+  "src/components/AccountStatementModal.jsx": {
+    "mtime": 1790249722.1049664,
+    "seen": 1790250043.467972,
+    "ast_hash": "736c25f67fb4b86d619b3490f5c09e5d",
+    "semantic_hash": ""
+  },
+  "src/components/DepositModal.jsx": {
+    "mtime": 1790249674.277401,
+    "seen": 1790250043.4679768,
+    "ast_hash": "5acb36f85eece639748d3c2fc2e22325",
+    "semantic_hash": ""
+  },
+  "src/components/MyBetsModal.jsx": {
+    "mtime": 1790249705.9520626,
+    "seen": 1790250043.467995,
+    "ast_hash": "887d92154f03fbc215e8f9f7594b6b92",
+    "semantic_hash": ""
+  },
+  "src/components/ProfileDrawer.jsx": {
+    "mtime": 1790249658.077498,
+    "seen": 1790250043.4679966,
+    "ast_hash": "e18d0a8a1d4ead20ddc0f3ce832800af",
+    "semantic_hash": ""
+  },
+  "src/components/WithdrawModal.jsx": {
+    "mtime": 1790249688.6758275,
+    "seen": 1790250043.4680052,
+    "ast_hash": "12b8c214df7d6d6e350e26faa0c1b94f",
+    "semantic_hash": ""
+  },
+  "public/static/media/profile-icon.af94f5d679cee064d99d.webp": {
+    "mtime": 1790249566.080703,
+    "seen": 1790250043.468245,
+    "ast_hash": "c5196b2b3e93c8323ffb8d0cdc4d3e10",
+    "semantic_hash": ""
+  }
+}
